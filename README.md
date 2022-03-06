@@ -1,2 +1,2 @@
-# lab5
-This lab is meant to get students more accustomed to the technologies used in designing and implementing an HTML frontend application and RESTful API server.
+# ECSE3038_lab5
+This lab is a implementation of a user friendly GUI frontend app mock-up for the tank management application.
